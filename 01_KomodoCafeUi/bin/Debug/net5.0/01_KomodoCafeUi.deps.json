@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "01_KomodoCafeUi/1.0.0": {
+        "dependencies": {
+          "01_KomodoCafe.Repository": "1.0.0"
+        },
+        "runtime": {
+          "01_KomodoCafeUi.dll": {}
+        }
+      },
+      "01_KomodoCafe.Repository/1.0.0": {
+        "runtime": {
+          "01_KomodoCafe.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_KomodoCafeUi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01_KomodoCafe.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

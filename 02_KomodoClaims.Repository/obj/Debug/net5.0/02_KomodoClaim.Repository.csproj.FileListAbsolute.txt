@@ -1,0 +1,12 @@
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.csproj.AssemblyReference.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.AssemblyInfoInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.AssemblyInfo.cs
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.csproj.CoreCompileInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\net5.0\02_KomodoClaim.Repository.deps.json
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\net5.0\02_KomodoClaim.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\net5.0\ref\02_KomodoClaim.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\net5.0\02_KomodoClaim.Repository.pdb
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\ref\02_KomodoClaim.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaim.Repository.pdb

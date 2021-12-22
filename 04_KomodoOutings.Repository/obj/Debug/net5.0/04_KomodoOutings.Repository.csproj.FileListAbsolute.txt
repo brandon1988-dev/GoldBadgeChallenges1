@@ -1,0 +1,12 @@
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.csproj.AssemblyReference.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.AssemblyInfoInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.AssemblyInfo.cs
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.csproj.CoreCompileInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\bin\Debug\net5.0\04_KomodoOutings.Repository.deps.json
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\bin\Debug\net5.0\04_KomodoOutings.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\bin\Debug\net5.0\ref\04_KomodoOutings.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\bin\Debug\net5.0\04_KomodoOutings.Repository.pdb
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\ref\04_KomodoOutings.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\04_KomodoOutings.Repository\obj\Debug\net5.0\04_KomodoOutings.Repository.pdb

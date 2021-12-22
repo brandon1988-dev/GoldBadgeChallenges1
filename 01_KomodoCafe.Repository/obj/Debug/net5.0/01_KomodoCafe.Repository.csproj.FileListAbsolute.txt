@@ -1,0 +1,12 @@
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\net5.0\01_KomodoCafe.Repository.deps.json
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\net5.0\01_KomodoCafe.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\net5.0\ref\01_KomodoCafe.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\net5.0\01_KomodoCafe.Repository.pdb
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.csproj.AssemblyReference.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.AssemblyInfoInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.AssemblyInfo.cs
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.csproj.CoreCompileInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\ref\01_KomodoCafe.Repository.dll
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\net5.0\01_KomodoCafe.Repository.pdb

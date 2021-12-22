@@ -1,0 +1,5 @@
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaims.Repository.csproj.AssemblyReference.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaims.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaims.Repository.AssemblyInfoInputs.cache
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaims.Repository.AssemblyInfo.cs
+C:\Users\goewe\OneDrive\Desktop\SD_119\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\net5.0\02_KomodoClaims.Repository.csproj.CoreCompileInputs.cache

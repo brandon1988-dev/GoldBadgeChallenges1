@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "00_JunkYard/1.0.0": {
+        "dependencies": {
+          "02_KomodoClaim.Repository": "1.0.0"
+        },
+        "runtime": {
+          "00_JunkYard.dll": {}
+        }
+      },
+      "02_KomodoClaim.Repository/1.0.0": {
+        "runtime": {
+          "02_KomodoClaim.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "00_JunkYard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02_KomodoClaim.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
